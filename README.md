@@ -1,2 +1,3 @@
-# spamerTg
-telegram spamerScript
+pip install pyrogram 
+
+MADE FOR INFORMATIONAL PURPOSES
