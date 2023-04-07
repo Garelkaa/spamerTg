@@ -1,0 +1,2 @@
+# spamerTg
+telegram spamerScript
